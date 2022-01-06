@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623522116 source:/home/sarath/Desktop/programs/Backend/C/Pointers/4.Array_Pointers/main.c
+	<stdio.h>
+	<stdlib.h>
+
